@@ -55,8 +55,8 @@ const Services = () => {
             {[
               {
                 icon: "ri-code-line",
-                title: "Software Development",
-                desc: "Enterprise-grade, scalable, and secure software.",
+                title: "React with Django/Laravel",
+                desc: "EA cross-platform mobile application built using React Native that delivers seamless, native-like performance and UI on both iOS and Android devices.",
               },
               {
                 icon: "ri-code-ai-line",
