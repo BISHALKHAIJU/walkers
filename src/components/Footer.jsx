@@ -23,7 +23,10 @@ const Footer = () => {
                     <i class="ri-linkedin-fill"></i>
                   </span>
                 </a>
-                <a href="https://api.whatsapp.com/send/?phone=9779801066279&text&type=phone_number&app_absent=0" target="_blank">
+                <a
+                  href="https://api.whatsapp.com/send/?phone=9779801066279&text&type=phone_number&app_absent=0"
+                  target="_blank"
+                >
                   <span class="text-xl text-[#cccccc]">
                     <i class="ri-whatsapp-fill"></i>
                   </span>

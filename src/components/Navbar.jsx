@@ -48,7 +48,7 @@ const Navbar = () => {
           }`}
         >
           <div className="flex justify-between items-center p-4">
-            <span className="font-bold text-sm font-[Outfit]">Redis</span>
+            <span className="font-bold text-sm font-[Outfit]">WalkersHive</span>
             <button onClick={() => setIsOpen(false)} className="text-xl">
               <i className="ri-close-fill"></i>
             </button>
