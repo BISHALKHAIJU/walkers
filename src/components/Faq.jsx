@@ -3,14 +3,14 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const features = [
   {
-    question: "Do you offer end-to-end software development?",
+    question: "What technologies do you work with?",
     answer:
-      "Yes. From product strategy and design to development, deployment, and post-launch support — we handle the full lifecycle.",
+      "We work across modern stacks including React, Node.js, Python, Flutter, and more—based on what suits your project best.",
   },
   {
-    question: "What technologies do you specialize in?",
+    question: "Do you provide post-launch support",
     answer:
-      "We specialize in React, Next.js, Node.js, Tailwind CSS, and scalable cloud solutions.",
+      "Yes, we offer ongoing maintenance, feature updates, and scaling support after launch.",
   },
   {
     question: "How do you ensure the quality of your code and products?",
@@ -18,9 +18,9 @@ const features = [
       "We follow best practices like code reviews, automated testing, and CI/CD pipelines.",
   },
   {
-    question: "Do you provide post-launch support?",
+    question: "Can i get a dedicated team for my project",
     answer:
-      "Yes, we offer continuous monitoring, maintenance, and feature upgrades.",
+      "Absolutely. We assign dedicated developers, designers, and tech leads based on your project’s specific needs.",
   },
 ];
 
