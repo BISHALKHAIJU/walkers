@@ -7,7 +7,7 @@ const Footer = () => {
         <div class="max-w-[1000px] mx-auto px-4 md:px-0 py-6">
           <div class="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0">
             <div class="max-w-[400px] animate-slideFromRight">
-              <img src="Redis1.svg" alt="" class="pb-4 md:pb-0" />
+              <img src="Logo 1.svg" alt="" class="pb-4 md:pb-0" />
 
               <p class="text-sm font-[Outfit] text-[#666666] mt-0 md:mt-4">
                 Join us for a seamless experience from invitation to celebration
@@ -16,21 +16,21 @@ const Footer = () => {
 
               <div class="mt-6">
                 <a
-                  href="https://www.linkedin.com/company/redisnp"
+                  href="https://www.linkedin.com/company/walkershivetech/?originalSubdomain=np"
                   target="_blank"
                 >
                   <span class="text-xl text-[#cccccc]">
                     <i class="ri-linkedin-fill"></i>
                   </span>
                 </a>
-                <a href="https://www.instagram.com/redis.np" target="_blank">
+                <a href="https://api.whatsapp.com/send/?phone=9779801066279&text&type=phone_number&app_absent=0" target="_blank">
                   <span class="text-xl text-[#cccccc]">
-                    <i class="ri-instagram-fill"></i>
+                    <i class="ri-whatsapp-fill"></i>
                   </span>
                 </a>
-                <a href="https://www.tiktok.com/@redis_24" target="_blank">
+                <a href="https://www.facebook.com/whiveitpro/" target="_blank">
                   <span class="text-xl text-[#cccccc]">
-                    <i class="ri-tiktok-fill"></i>
+                    <i class="ri-facebook-fill"></i>
                   </span>
                 </a>
               </div>
@@ -67,7 +67,7 @@ const Footer = () => {
 
           <div class="text-[#A3A3A3] text-xs flex justify-between py-3 mt-6 md:border-t md:border-t-gray-100 pb-12 md:pb-20 relative animate-fadeInDown">
             <div class="space-x-3 font-[Outfit] mt-1">
-              <span>©️ REDIS Digital 2025. All rights reserved.</span>
+              <span>©️ WalkersHive 2025. All rights reserved.</span>
               <a href="" class="underline">
                 Terms of Use
               </a>
@@ -82,7 +82,8 @@ const Footer = () => {
               </a>
             </div>
             <img
-              src="redisDigital.svg"
+              src="walkers.svg
+              "
               alt=""
               class="absolute -bottom-[20px] -left-1/2 translate-x-1/2 md:bottom-[-50px] animate-fadeInUp"
             />
